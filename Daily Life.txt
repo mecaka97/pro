@@ -1,0 +1,29 @@
+1.Wake up. Get out of the bed.
+2.Go to bathroom. Use the toilet.
+3.Take of your clothes. Get into the shower. Choose hot/cold water. Take a shower.
+4.Go back to your room. Pick out your outifit. Get dressed.
+5.Open the fridge. Pick something to eat. Eat breakfast.
+6.Go back to the bathroom. Take toothbrush. Brush your teeth.
+7.Go outside. Wait for the bus. Get on the bus.
+8.Step out of the bus at the university. Make your way to the classroom. Get into classroom.
+9.Sit down at your desk. Arrange your books and pencils.
+10.Listen to the class. 
+11.Get out of the classroom. Go to the cafeteria. Eat your lunch.
+12.Get out of caffeteria. Wait for the bus. Get on the bus.
+13.Step out of the bus at the dorm. Get into the dorm. Sit down at your desk.
+14.Do your homework.
+15.Take a break.
+16.Go outside. Meet with your friends. Play a game of footbal.
+17.Get back to your dorm. Go to bathroom.
+18.Take of your clothes. Get into the shower. Choose hot/cold water. Take a shower.
+19.Go back to your room. Put on pajamas.
+20.Go on your phone. Order food online. 
+21.Wait for your food.
+22.Lay down at your bed. Use your phone to watch videos online.
+23.Phone rings. Answer your phone. Talk to the delivery person.
+24.Go outside. Get your food.
+25.Get back inside. Sit at your desk. Eat your food.
+26.Clean up after yourself. Throw the trash away.
+27.Go to the bathroom. Take toothbrush. Brush your teeth.
+28.Get into your bed. Close your eyes. Fall asleep.
+
